@@ -5,9 +5,6 @@
 ### Bachiller en Ingeniería de Sistemas · Desarrollador Web Full Stack
 ### Bachelor's Degree in Systems Engineering · Full Stack Web Developer
 
-[![Email](https://img.shields.io/badge/Email-brunoras00%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brunoras00@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-974121550-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/51974121550)
-
 </div>
 
 ---
@@ -77,16 +74,6 @@ Authentication & Authorization · Database Design · CI/CD
 Data Warehouse · ETL · Machine Learning Fundamentals
 ```
 
-## Estadísticas | GitHub stats
-
-<div align="center">
-
-
-<img src="https://streak-stats.demolab.com?user=BrunoRasot&theme=github-dark-blue&hide_border=true&locale=es" alt="Racha de contribuciones de Bruno" />
-
-</div>
-
-> Las estadísticas reflejan principalmente repositorios públicos y no representan por sí solas el nivel de experiencia.
 
 ## Contacto | Contact
 
